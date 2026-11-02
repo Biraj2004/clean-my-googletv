@@ -1,0 +1,27 @@
+# Binary APKs (hosted in GitHub Releases)
+*.apk
+**/*.apk
+apk/*.apk
+
+# Python virtual environments & bytecode
+venv/
+**/venv/
+__pycache__/
+**/__pycache__/
+*.pyc
+
+# Gradle & Android build caches
+.gradle/
+**/.gradle/
+build/
+**/build/
+local.properties
+*.log
+
+# IDE & Editor caches
+.idea/
+*.iml
+.vscode/
+
+# Temporary / Scratch
+scratch/

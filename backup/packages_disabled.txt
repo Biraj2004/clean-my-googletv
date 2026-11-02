@@ -1,0 +1,9 @@
+﻿package:com.sony.dtv.my5launcher
+package:com.sony.dtv.soundslauncher
+package:com.mediatek.dtv.tvinput.atsctuner
+package:com.mediatek.dtv.tvinput.isdbtuner
+package:com.sony.dtv.b2b.vendorprotocol
+package:com.youview.poa
+package:com.sony.dtv.iplayerlauncher
+package:com.sony.dtv.itvlauncher
+package:com.sony.dtv.all4launcher

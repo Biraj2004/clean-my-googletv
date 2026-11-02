@@ -1,0 +1,13 @@
+{
+  "wallpaper": true,
+  "wallpaper_dim": 35,
+  "wallpaper_rotation_minutes": 0,
+  "wallpaper_captions": false,
+  "wallpaper_true_color": true,
+  "ambient_glow": false,
+  "app_glow": false,
+  "cinematic_white_focus": true,
+  "settings_key_panel": true,
+  "settings_key_keycodes": [176, 312, 82, 83],
+  "restore_key_services": true
+}
