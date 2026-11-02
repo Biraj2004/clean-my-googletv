@@ -1,0 +1,10 @@
+# Tier 1: Telemetry, Ad Trackers, and Retail Store Demos
+# 100% Safe - Zero functional impact to TV operations
+
+tv.samba.ssm
+com.sony.dtv.promos
+com.sony.dtv.sonyselect
+com.google.android.feedback
+com.sony.dtv.demosupport
+com.sony.dtv.demosystemsupport
+com.sony.dtv.multiscreendemo
