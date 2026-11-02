@@ -50,3 +50,4 @@ If you discover a potential security vulnerability or privacy leak within this r
 ### Response Timeline
 * **Initial Acknowledgment**: Within 48 hours.
 * **Assessment & Fix**: Security patches will be prioritized and published under a new semantic release tag.
+
