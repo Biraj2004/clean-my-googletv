@@ -7,6 +7,7 @@
 [![Latest Release](https://img.shields.io/badge/Release-v1.0.0--enhanced-7928CA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Biraj2004/clean-my-googletv/releases/tag/v1.0.0-enhanced)
 ![Root](https://img.shields.io/badge/Root-NOT%20REQUIRED-success?style=for-the-badge&logo=shield&logoColor=white)
 ![Warranty](https://img.shields.io/badge/Warranty-100%25%20SAFE%20%26%20REVERSIBLE-blue?style=for-the-badge&logo=checkmarx&logoColor=white)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
 
 <p align="center">
   <b>A universal, bloat-free performance optimization suite, tvOS-inspired spatial launcher, live memory task cleaner, and automated 1-click modular setup for ANY Google TV and Android TV device.</b>
@@ -282,6 +283,8 @@ All binaries below are available for direct download on the [**GitHub Releases P
 clean-my-googletv/
 ├── MASTER_PROMPT.md                # 9-Phase one-shot automation blueprint for AI agents & engineers
 ├── RELEASE_NOTES.md                # Cryptographic checksums, package IDs, and version changelog
+├── SECURITY.md                     # Security architecture, threat model, and vulnerability reporting
+├── LICENSE                         # Official MIT open-source software license
 ├── README.md                       # Comprehensive showcase, documentation & quick start guide
 ├── theme_config.json               # Cinematic white focus & true-color wallpaper configuration
 ├── .gitignore                      # Ignore build caches, python virtualenvs, and IDE files
@@ -341,6 +344,8 @@ Run the universal restore script from your PC:
 | [**Tier 3 Network Block Guide**](guide/Tier3_Network_Block_Guide.md) | Router, Pi-hole, AdGuard Home, and NextDNS domain blocking configurations. |
 | [**Pre-Debloat Device Audit**](guide/TV_Before_Debloat.md) | Initial baseline hardware analysis, Wi-Fi ownership audit, and stock application list. |
 | [**Safe Tier 1 Package Manifest**](guide/tier1_packages.txt) | Raw package identifier list for 100% safe telemetry disabling. |
+| [**SECURITY.md**](SECURITY.md) | Security policy, non-destructive execution boundaries, and vulnerability disclosure protocol. |
+| [**LICENSE**](LICENSE) | MIT open-source license terms and permissions. |
 
 ---
 
@@ -358,6 +363,6 @@ Special thanks and full credit to the original creators and open-source communit
 
 ---
 
-## License
+## License & Security
 
-This repository and custom enhancements are open-source and released under the **MIT License**. Third-party APKs, libraries, and upstream sub-modules belong to their respective copyright holders and open-source licenses.
+This repository and custom enhancements are open-source and released under the [**MIT License**](LICENSE). Third-party APKs, libraries, and upstream sub-modules belong to their respective copyright holders and open-source licenses. For vulnerability disclosures and security details, please review our [**Security Policy**](SECURITY.md).
